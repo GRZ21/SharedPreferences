@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferents</string>
+    <string name="My_Data">my_data</string>
+    <string name="My_Key">my_key</string>
+</resources>
