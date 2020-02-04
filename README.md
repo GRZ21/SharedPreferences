@@ -1,0 +1,3 @@
+# SharedPreferences
+再使用ViewModelSaveState后，关机或者使用back键，数据还是会被清空，使用SharedPreferences进行永久保存
+使用myLog观察数据
